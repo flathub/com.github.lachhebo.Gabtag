@@ -1,14 +1,14 @@
 {
     "app-id": "com.github.lachhebo.Gabtag",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "41",
+    "runtime-version": "42",
     "sdk": "org.gnome.Sdk",
     "command": "gabtag",
     "finish-args": [
         "--filesystem=home",
         "--share=network",
         "--share=ipc",
-        "--socket=x11",
+        "--socket=fallback-x11",
         "--socket=wayland",
         "--filesystem=xdg-run/dconf",
         "--filesystem=~/.config/dconf:ro",
@@ -75,7 +75,7 @@
             "sources": [
                 {
                     "type": "git",
-                    "tag": "v6",
+                    "tag": "v7",
                     "url": "https://github.com/lachhebo/GabTag"
                 }
             ]
