@@ -75,7 +75,7 @@
             "sources": [
                 {
                     "type": "git",
-                    "tag": "v7",
+                    "tag": "v8",
                     "url": "https://github.com/lachhebo/GabTag"
                 }
             ]
