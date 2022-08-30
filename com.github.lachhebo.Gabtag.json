@@ -120,7 +120,7 @@
             "sources": [
                 {
                     "type": "git",
-                    "tag": "9",
+                    "tag": "v10",
                     "url": "https://github.com/lachhebo/GabTag"
                 }
             ]
