@@ -117,9 +117,6 @@
             "name": "gabtag",
             "buildsystem": "meson",
             "builddir": true,
-            "config-opts" : [
-                "-Ddevel=true"
-            ],
             "sources": [
                 {
                     "type": "git",
