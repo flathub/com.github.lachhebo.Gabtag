@@ -55,6 +55,11 @@
                     "type" : "file",
                     "url" : "https://files.pythonhosted.org/packages/ea/94/8fad659bcdbf86ed70099cb60ae40be6acca434bbc8c4c0d4ef356d7e0de/pillow-12.0.0-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
                     "sha256" : "a6597ff2b61d121172f5844b53f21467f7082f5fb385a9a29c01414463f93b07"
+                },
+                {
+                    "type" : "file",
+                    "url" : "https://files.pythonhosted.org/packages/fc/bd/69ed99fd46a8dba7c1887156d3572fe4484e3f031405fcc5a92e31c04035/pillow-12.0.0-cp313-cp313-manylinux2014_aarch64.manylinux_2_17_aarch64.whl",
+                    "sha256" : "bde737cff1a975b70652b62d626f7785e0480918dece11e8fef3c0cf057351c3"
                 }
             ]
         },
