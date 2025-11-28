@@ -5,6 +5,7 @@
     "sdk" : "org.gnome.Sdk",
     "command" : "gabtag",
     "finish-args" : [
+        "--filesystem=home",
         "--device=dri",
         "--share=network",
         "--share=ipc",
